@@ -10,7 +10,7 @@ int main() {
   //save sum of all numbers
   int sum = 0;
 
-  // all numbers < 1000, we skip 0 to avoid 0 modulus 3-0
+  // all numbers < 1000, we skip 0 to avoid 0 modulus 3=0
   for (int i = 1; i < 1000; i++)
   {
     // To see if a no. is divisible by another no. we use % - modulus
