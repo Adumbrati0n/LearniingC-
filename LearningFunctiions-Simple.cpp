@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int multiplyby2(int n)
+int multiplyby2(int n) //e.g: int function(int argument1, int argument2) { return output}; 
 {
   return n * 2;
 }
