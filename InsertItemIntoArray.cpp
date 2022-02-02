@@ -13,7 +13,7 @@ int pos = 4;
 
 int main()
 {
-  int a_new[10];
+  int a_new[10]; //new array of 10 items as we want to add new item 43
   
   for (int i = 0; i < 4; i++) // item no. 4 is 66
   {
