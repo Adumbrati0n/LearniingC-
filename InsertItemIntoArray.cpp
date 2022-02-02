@@ -17,7 +17,7 @@ int main()
   
   for (int i = 0; i < 4; i++) // item no. 4 is 66
   {
-    a_new[i] = a1[i]; //Make item no.1-4 same for new array
+    a_new[i] = a1[i]; //Make item no.1-3 same for new array
 
   }
 
