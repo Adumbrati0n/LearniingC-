@@ -18,7 +18,7 @@ int main()
   for (int i = 0; i < str01_length - search_length; i++) // - search_length incase there are more S's in string, we want 'Solving' String so we define length
   {
     if (str01[i] == str_to_search[0]) 
-    //If str_to_search is matching, find 1st letter, compare the whole word
+    //If str_to_search 1st letter is matching,compare the whole word
     {
       bool found = true;
       for (int s = i; s < i + search_length; s++)
