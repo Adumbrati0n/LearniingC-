@@ -13,7 +13,7 @@ int a2[9] = {12,23,34,45,56,67,66,89,91};
 
 int main()
 {
-  int a_new[18];
+  int a_new[18]; //create new array with 18 items
 
   for (int i = 0; i < 18; i++)
   {
