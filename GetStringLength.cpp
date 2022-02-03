@@ -1,4 +1,4 @@
-//Exercise 3.1: Get the string length
+//Exercise 3.2: Get the string length
 #include <iostream>
 #include <string.h>
 #include <stdio.h>
