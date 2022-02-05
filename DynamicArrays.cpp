@@ -10,7 +10,7 @@ using namespace std;
 char msg[] = "This is a complete sentence ";
 
 // We want to save it in a dynamic array of pointers of char* (strings):
-char **array; //char* means pointer to a string and another * means a pointer to to list of pointers of strings
+char** array; //char* means pointer to a string and another * means a pointer to to list of pointers of strings
 int arr_length = 0;
 
 
