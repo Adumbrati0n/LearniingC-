@@ -43,6 +43,7 @@ int print_items(item* list)
   }
 
   cout << "-----------" << "\n";
+  return 0;
 }
 
 int main() 
