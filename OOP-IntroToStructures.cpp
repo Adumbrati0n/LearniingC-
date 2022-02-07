@@ -24,6 +24,8 @@ car* create_new_car_obj(char *colour,char* type, int ndoors)
 
   return new_car;
 }
+
+// ->  To access members of a structure through a pointer, use the arrow operator.
 // void means nothing/no type 
 // Function argument: int myFunc(void) -- the function takes nothing.
 // Function return value: void myFunc(int) -- the function returns nothing
